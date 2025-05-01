@@ -1,4 +1,4 @@
-baseURL: 
+baseURL: "https://ghana04.github.io/blog/"
 languageCode: en-us
 title: My New Hugo Site
 theme: PaperMod
