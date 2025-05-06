@@ -1,20 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Take it up and read</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Take it up and read</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 May 2025 18:15:57 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>//localhost:1313/docs/test/</link>
-      <pubDate>Thu, 01 May 2025 18:15:57 +0200</pubDate>
-      <guid>//localhost:1313/docs/test/</guid>
-      <description>&lt;h1 id=&#34;this-is-a-test-page&#34;&gt;This is a test page&lt;/h1&gt;
-&lt;p&gt;Test test test.&lt;/p&gt;</description>
+      <title>Sing the Psalms</title>
+      <link>http://localhost:1313/blog/2024/sing-the-psalms/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024/sing-the-psalms/</guid>
+      <description>&lt;p&gt;Or “Did God really say we should sing the psalms?”&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Open Bible&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/2024/open-bible-sunlight.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Joining the sound team of a modern evangelical church can range from just clicking through YouTube videos (simple) to overseeing an entire music production, requiring in-depth technical skills and the ability to do live mixing (complicated).&lt;/p&gt;
+&lt;p&gt;Suppose you find yourself somewhere in the middle of that spectrum, you might be tasked with the following responsibilities:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Make sure all the cables are plugged in correctly&lt;/li&gt;
+&lt;li&gt;Turn on the power&lt;/li&gt;
+&lt;li&gt;Do a sound check on the microphones&lt;/li&gt;
+&lt;li&gt;Do a sound check on the guitar&lt;/li&gt;
+&lt;li&gt;Make sure the preacher’s microphone is muted during singing&lt;/li&gt;
+&lt;li&gt;Make sure the volume levels are rightly adjusted&lt;/li&gt;
+&lt;li&gt;etc. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This is a very simplified checklist, and for the most part the operations run smoothly because of lists like these and the faithful people who ensure that they are implemented Sunday after Sunday.
+In short, this checklist is essentially our way of trying to ensure the best possible outcome in the context of singing.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
