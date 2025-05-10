@@ -11,13 +11,13 @@ cover:
 During a recent discussion with a friend, the topic of ‘death leading to life’ was brought up and how essential it is in the Bible.
 In looking at what feels to me like a more and more lifeless world, the connection between the state of the world and this principle came to mind.
 I believe that one of the biggest problems we have today, whether in politics, schools, family life, men, or women, is that there is a growing inability to produce life because of a growing unwillingness to die.
-Where is no death, life cannot be brought forth, and those who most depend on others to die (citizens, children, spouses) suffer for it. 
+Where is no death, life cannot be brought forth, and those who most depend on others to die (citizens, children, spouses) suffer for it.
 
 ## What is meant by dying
 
 Death as we generally understand it is the physical cessation of life, but in this article I’m using the term death as a way of speaking about a principle of denying ourselves, whether it be hopes, needs, desires, preferences, or expectations. 
 
-This might be best illustrated by a few examples: 
+This might be best illustrated by a few examples:
 
 - The judge who dies to his desire for self-enrichment rejects a bribe offered to him and makes a just ruling, acquitting the innocent party. 
 - The agreeable person who dies to his desire for always being liked informs a co-worker of an embarrassing habit which he wasn’t aware of.

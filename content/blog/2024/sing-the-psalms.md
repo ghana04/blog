@@ -2,11 +2,13 @@
 title: "Sing the Psalms"
 date: 2023-07-01
 draft: false
+cover:
+  image: /images/2024/open-bible-sunlight.jpg
+  alt: "Open Bible in sunlight"
+  relative: false
 ---
 
 Or “Did God really say we should sing the psalms?”
-
-![Open Bible](/images/2024/open-bible-sunlight.jpg)
 
 Joining the sound team of a modern evangelical church can range from just clicking through YouTube videos (simple) to overseeing an entire music production, requiring in-depth technical skills and the ability to do live mixing (complicated). 
 
