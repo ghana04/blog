@@ -6,6 +6,8 @@ cover:
   image: /images/2024/eastern-cape-coast.jpg
   alt: "Eastern Cape coastline"
   relative: false
+tags:
+  - theology
 ---
 
 During a conversation a few years ago, a friend of mine made a passing comment that has stuck with me ever since:

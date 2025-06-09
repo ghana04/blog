@@ -6,6 +6,8 @@ cover:
   image: /images/2024/field-with-seeds.jpg
   alt: "Field"
   relative: false
+tags:
+  - theology
 ---
 
 During a recent discussion with a friend, the topic of ‘death leading to life’ was brought up and how essential it is in the Bible.
