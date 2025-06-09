@@ -33,15 +33,15 @@ If Adam succeeds as these commands, life will surely flourish.
 If our Creator brings forth life, and our original command was to produce and guard life, it makes sense that wherever we see life flourish under the hands of people we see in some way God’s image being honored.
 In a way you could say that more alignment to God's character leads to more life.
 
-In God's Word this alignment happens principally through regeneration and sanctification (the true alignment).
-However there are some other ways as well, such as external obedience to the Word, or through common grace by which people discover life-giving principles outside of the Scriptures, such as monogamy or caring for the elderly.
-
 This principle of conformity to God bringing forth life is alluded to in Deuteronomy 30:
 
 > “19 I call heaven and earth to witness against you today, that I have set before you life and death, blessing and curse.
 > Therefore choose life, that you and your offspring may live, 20 loving the LORD your God, obeying his voice and holding fast to him, for he is your life and length of days, that you may dwell in the land that the LORD swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them.”
 > 
 > ~ Deut 30:19-20 ESV (emphasis mine)
+
+In God's Word, the ultimate alignment to His character happens in the processes of regeneration and sanctification.
+There are also some other ways, such as external obedience to the Word, or through common grace by which people discover life-giving principles outside of the Scriptures, such as monogamy or caring for the elderly.
 
 ## Rejecting God leads to death
 
@@ -54,7 +54,7 @@ They represent direct rejections of our first command to “keep and guard (pres
 
 ## Alive outside but dead inside
 
-At this point I want to make some distinctions.
+At this point I want to make a distinction:
 We can have a thriving garden and a happy family and still be dead in God’s sight.
 
 When God told Adam that He will die if he eats of the forbidden fruit, He wasn’t talking just about biological death.
