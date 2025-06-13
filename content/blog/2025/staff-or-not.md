@@ -1,7 +1,7 @@
 ---
 title: "Staff or not?"
 date: 2025-06-13
-draft: false
+draft: true
 #cover:
 #  image: /images/2024/field-with-seeds.jpg
 #  alt: "Field"
