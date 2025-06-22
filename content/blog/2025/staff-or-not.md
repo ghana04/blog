@@ -61,12 +61,13 @@ What evidence from the gospels would support Jesus being pedantic about such a p
 
 In other words, Jesus surely taught His followers to be primarily concerned about the kingdom of God and having faith in God.
 That would be His focus.
-If Luke/Mark/Matthew knew that Jesus was incredibly pedantic about what to take along when evangelizing, they would probably have taught it to other disciples.
+If Luke/Mark/Matthew knew that Jesus was incredibly pedantic about what to take along when evangelizing, they would probably have taught it to other disciples as a matter of doctrine.
 
 In Matthew we find a hint of what Jesus intends with this instruction when He states the purpose: "the laborer deserves his food".
 This implies that the reason for not taking these things is a call to faith in the provision of God: if He calls us to proclaim the good news of the kingdom, then He will provide for us.
 
-Thus, I assume there were two reasons for Jesus stating this command:
+Thus, I assume the following reasons for Jesus stating this command:
+
 1. Call to faith in the provision of God
 2. Theological connection to the Exodus
 3. Possibly a theological point to travel light, not to acquire many possessions
