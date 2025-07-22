@@ -81,8 +81,8 @@ God is going to give us bodies that match the underlying spiritual condition we 
 
 Every person has four key experiences of death: 
 
-1. Spiritual death (inherited from Adam): being separated from God in the spiritual realm, evidenced by feelings such as guilt, shame, pride, and wanting to be morally superior as compared to other people.
-2. Physical death (inherited from Adam): being separated from God in the natural, which is having to 'stay alive' in the world on our own strength.
+1. Spiritual death (inherited from Adam): being separated from God in the spiritual realm, evidenced by feelings such as guilt, shame, pride, and wanting to be good/righteous by being moral.
+2. Physical death (inherited from Adam): being separated from God in the natural, which is having to 'stay alive' in the world by the sweat of our brow.
 3. Physical death (experienced personally): being separated from the life-sustaining and grace-permitting environment which God provided for our bodies and our souls.
 4. Spiritual death: 
    1. For unbelievers: called the second death, the lake of fire, which is the final and true separation from the spiritual realm of life (experienced personally).
@@ -90,23 +90,24 @@ Every person has four key experiences of death:
 
 ## Who does the work?
 
-Work truly understood is that which we must do to stay alive.
+Work seems to be categorized as either that which we do besides staying alive and that which we do to be able to stay alive.
 
 When Adam worked in the garden, he didn't do it to stay alive.
-In that sense, it wasn't work, but rather actions that would reflect God to creation.
-His work was to fulfill the mandate provided by God, whilst God did the 'work' to sustain him by providing trees and a living environment where not not even clothes were needed.
+In that sense, his work was simply to reflect God to creation, to fulfill the mandate provided by God.
+He did this whilst God did the 'work' to sustain him by providing trees and a living environment where not not even clothes were needed.
 
-When God cursed creation because of Adam, he had to start working since he could no longer just rely on God to keep him biologically alive.
+When God cursed creation because of Adam, he had to start working to live since he could no longer just rely on God to keep him biologically alive.
 Again, this was a natural reflection of a spiritual reality.
 In the spirit, since Adam was cut off from the realm of Life, he would sense the need to be 'good' to be 'spiritually alive'.
 The parallel in the natural is clear: work is now needed from Adam to keep himself alive.
 
 Hence why, when God sought to illustrate the realm of the spirit, which is where He lives, the priests weren't allowed to sweat (Ezekiel).
-Sweat is connected to Adam's curse of having to keep yourself alive, which is completely contradictory to the reality experienced by those joined to God in the spirit.
+Sweat is connected to Adam's curse of having to keep yourself alive, which is completely foreign for creatures in God's realm.
 
 Therefore, when the Law came, in a type and shadow it gave 'life' to those who obeyed it.
 But with the arrival of Christ, and our union with Him by death and resurrection, we don't have to lift a finger to keep ourselves alive.
 Rather, like Adam before the fall, we live in a realm where God sustains us, and all the 'work' we do is simply to reflect God to the creation and not to garner spiritual life.
+Jesus fulfilled the law, therefore in Him we live.
 
 That is probably why in Galatians Paul is rebuking them, since they are now seeking to do achieve with the shadow of the law what the promise of faith has completed in Christ.
 
