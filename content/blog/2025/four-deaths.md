@@ -1,44 +1,47 @@
 ---
-title: "The four debts that all men pay"
+title: "The four deaths of all men"
 date: 2025-07-11
 draft: true
-#cover:
-#  image: /images/2024/field-with-seeds.jpg
-#  alt: "Field"
-#  relative: false
+cover:
+  image: /images/2025/northpoint-mumbai.jpg
+  alt: "Field"
+  relative: false
 tags:
   - theology
 ---
 
-While on an outreach in India, I thoroughly enjoyed reflecting on the concept of us being crucified with Christ.
+While on an outreach in India, I came to the conclusion that all men have four experiences of death -- three of which are the same with only the fourth one falling into one of two categories.
+This happened while I was reflecting on the statement of Paul that he was crucified with Christ, from which I'll start this blog.
 
 ## What does it mean to be crucified with Christ?
 
 When Paul says that it is now longer he that lives, but Christ in him, what does he mean?
-Clearly he is still biologically alive and has much of his personality in tact.
+Clearly he is still biologically alive and has his personality in tact.
 He is also spiritually alive since he has been regenerated.
+
+To answer this question I started thinking about what it means to die.
 
 ## The natural being a reflection of the spiritual
 
-I believe that when Adam sinned in the garden, he actually died as God has said, and that it was both physical and spiritual
+I believe that when Adam sinned in the garden, he actually died as God has said, and that it was both physical and spiritual.
 
 ## What does death mean?
 
-God is spirit, and therefore I believe He sometimes would speak to a spiritual reality even though the natural has not caught up to it yet.
+God is spirit, and therefore I believe He would often speak about spiritual realities that have not yet been manifested in the natural.
+I believe this also applies to the concept of death.
 Much of the Genesis narrative (and other parts of Scripture) make more sense to me if death is seen as _separation_ rather than _cessation_.
 
 God, being eternal, creates things that are eternal.
 He has put eternity into the heart of man, His covenants have eternal language, and His punishments are also eternal.
-This is probably because in the spirit time doesn't exist.
+Therefore, for man to die is to be separated from God, not to cease to exist.
 
-Therefore, for God, to die is to be separated from the realm of Life, from Him.
-
-When Adam sinned, his spirit died but didn't cease to exist.
-Like a flower that has been cut, he still retained some form and processes of life, even though in the spirit he was removed from God and therefore considered dead.
+When Adam sinned, his spirit was like a flower that has been cut: though retaining some vestiges of life, it is considered dead because of its separation from the realm (root) of life.
 This spiritual reality was then reflected in the natural by Adam being banned from the Garden of Eden, and placed in a cursed land.
-Like Adam, the land had some form of life, but at the same time was constantly being affected by the thorns and thistles introduced by the fall.
+The garden of Eden was a picture of the spiritual realm where God sustains life.
+Like Adam, the land had some form of life, but at the same time was constantly being affected by the thorns and thistles introduced by the fall (sin).
 
 Why does biological death then still happen?
+To show man that his body is not 
 Biological death is in some way cessation, but it can also be seen as a separation from the biological world.
 Biological death is our 3rd death, separating our spirits from the realm of grace.
 In that sense, it is a foreshadowing of what is going to happen in the spirit if we don't join with Christ in His death.

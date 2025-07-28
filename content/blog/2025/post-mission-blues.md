@@ -3,7 +3,7 @@ title: "Redeeming post mission blues"
 date: 2025-07-11
 draft: false
 cover:
-  image: /images/2025/northpoint-mumbai.jpg
+  image: /images/2025/clouds-from-plane.jpg
   alt: "Field"
   relative: false
 tags:
