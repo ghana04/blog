@@ -1,7 +1,8 @@
 # Matthew
 
 ## Matthew 5:44 | Praying for enemies
-But I say to you, Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven.
+
+_But I say to you, Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven._
 
 - **Beneficiaries**: Our enemies, those who persecute us. 
 - **Why**: To be like our Heavenly Father, who gives good to the just and unjust.
@@ -16,7 +17,7 @@ But I say to you, Love your enemies and pray for those who persecute you, so tha
 
 - **To whom**: Our Heavenly Father
 - **Where**: In the secret place where no one knows we are praying.
-- **Beneficiaries**: Unspecified, but ultimately also the believer who is prayer.
+- **Beneficiaries**: Unspecified, but ultimately also the believer who is praying.
 
 ## Matthew 6:9-13 | Our Father
 
@@ -35,7 +36,8 @@ But I say to you, Love your enemies and pray for those who persecute you, so tha
 
 ## Matthew 9:38 | Labourers
 
-*37 Then he said to his disciples, “The harvest is plentiful, but the laborers are few; 38 therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”*
+_37 Then he said to his disciples, “The harvest is plentiful, but the laborers are few;_
+_38 therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”_
 
 Jesus' instruction for 'evangelistic' prayer is not for the people to be changed, but for the Father to send out more laborers.
 
@@ -75,7 +77,9 @@ If Jesus quenched the Spirit, He would probably not have been rejoicing.
 
 ## Matthew 14:22-23 | Jesus praying on the mountain
 
-*22 Immediately he made the disciples get into the boat and go before him to the other side, while he dismissed the crowds. 23 And after he had dismissed the crowds, he went up on the mountain by himself to pray. When evening came, he was there alone,*
+_22 Immediately he made the disciples get into the boat and go before him to the other side, while he dismissed the crowds._
+_23 And after he had dismissed the crowds, he went up on the mountain by himself to pray._
+_When evening came, he was there alone,_
 
 Jesus made time to pray alone.
 
@@ -132,7 +136,8 @@ It is fixed that the tribulation will occur, but Jesus encourages his disciples 
 - Jesus reveals his heart to his closer disciples, telling them what emotion He is experiencing and asking them to "watch" with Him, which is associated with prayer.
 - Therefore, to be alert (watching) is to be in prayer.
 
-> *The end of all things is at hand: therefore be self-controlled and sober-minded for the sake of your prayers.* ~ 1 Peter 4:7
+> *The end of all things is at hand: therefore be self-controlled and sober-minded for the sake of your prayers.*
+> ~ 1 Peter 4:7
 
 Regarding the content of Jesus' prayer:
 

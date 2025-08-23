@@ -353,3 +353,15 @@ Naturally, the master would want the servant to be well dressed and esteemed, as
 However, if the receiving of this glory jeopardizes the mission for which the servant was sent, then the master would be wise to remove that glory to keep the servant focused on the mission.
 As with Abraham, he could entrust his servant with many riches to accomplish the mission.
 As with Elisha, he could not entrust his servant with many riches, as Gehazi had a greedy heart.
+
+## On body and spirit
+
+What does it mean "cleanse yourselves from every defilement of body and spirit" (2 Cor 7:1)?
+
+If in the spirit I have been crucified and resurrected with Christ, how can there be defilement?
+I assume here Paul is using the word 'spirit' as a reference to the inner man.
+But why did he not use soul?
+
+## The spirit introduces complexity
+
+Because of the operation of the Spirit (or spirits), it might in some cases be possible to say both that "you were speaking" and "it was not you that was speaking".

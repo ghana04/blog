@@ -28,7 +28,7 @@ Reminds me of the story of Carole Ward, who by praying with other believers esse
 
 Parallel to Matthew 21:13
 
-## Mark 11:24-25
+## Mark 11:24-25 | Whatever you ask
 
 *24 Therefore I tell you, whatever you ask in prayer, believe that you have received it, and it will be yours.*
 *25 And whenever you stand praying, forgive, if you have anything against anyone, so that your Father also who is in heaven may forgive you your trespasses.*
@@ -45,7 +45,8 @@ Let us ask in proportion to our faith, and let us forgive as we draw near to God
 
 ## Mark 12:40 | For pretense make long prayers
 
-*who devour widows' houses and for a pretense make long prayers. They will receive the greater condemnation.*
+_who devour widows' houses and for a pretense make long prayers._
+_They will receive the greater condemnation._
 
 Long prayers is a way evil people try to portray themselves as virtuous!
 We are to avoid long prayers before others, because it's actually typical of those who are not believers (cf. Matthew 6:7).
