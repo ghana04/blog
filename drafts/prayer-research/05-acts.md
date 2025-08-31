@@ -228,7 +228,7 @@ _3 Then after fasting and praying they laid their hands on them and sent them of
 
 It seems again that praying happened here before the laying on of hands.
 
-## Acts 16:13 | Lydia at the place of prayer
+## Acts 16:13 | Going to the place of prayer
 
 _13 And on the Sabbath day we went outside the gate to the riverside, where we supposed there was a place of prayer, and we sat down and spoke to the women who had come together._
 

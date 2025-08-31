@@ -263,3 +263,67 @@ Furthermore:
 
 Does that mean that any living physical being can host a spirit?
 Possibly parallel to the snake in the garden of eden?
+
+## Mark 8:12 | Jesus sighed deeply in His spirit
+
+_And he sighed deeply in his spirit and said,_
+_“Why does this generation seek a sign?_
+_Truly, I say to you, no sign will be given to this generation.”_
+
+What happened around Jesus affected Him in His spirit.
+What affected His spirit translated over to a physical action, which in this case is His response to the Pharisees.
+
+It should probably be so with us as well.
+Not what happens to our emotions, or even our flesh, should primarily determine how we live, but rather the spirit.
+
+This is probably what fasting helps reinforce: not primarily by the signals received by my body do I live, but by how I am led in the spirit.
+
+## Mark 12:36 | David in the Holy Spirit
+
+Parallel.
+
+## Mark 13:11 | Not you who speak, but the Holy Spirit
+
+Parallel to Matthew 10:20.
+
+## Mark 14:38 | The spirit is willing
+
+Parallel to 26:41.
+
+## Luke 1:14-17 | Filled with the Spirit from the womb
+
+_14 And you will have joy and gladness, and many will rejoice at his birth,_
+_15 for he will be great before the Lord._
+_And he must not drink wine or strong drink, and he will be filled with the Holy Spirit, even from his mother's womb._
+_16 And he will turn many of the children of Israel to the Lord their God,_
+_17 and he will go before him in the spirit and power of Elijah, to turn the hearts of the fathers to the children,_
+_and the disobedient to the wisdom of the just, to make ready for the Lord a people prepared."_
+
+A few interesting things about these verses.
+Firstly, being filled with the Spirit here is not the result of a decision, a prayer, or a laying on of hands.
+This is of course an exceptional case, so must be seen in that light as well.
+However, it does indicate that God can fill someone with the Holy Spirit involuntarily.
+
+Another interesting thing is that phrase "the spirit and power of Elijah".
+So John will be filled with the Holy Spirit, but the operation of the Spirit will be similar to that seen in the life of Elijah.
+It reminds me of that passage "Now there are varieties of gifts, but the same Spirit;" (1 Cor 12:4).
+So the same Holy Spirit can be in multiple people, but when someone looks at a person operating by the Spirit they might say he or she is acting in the spirit of a person who likewise ministered in a similar way before.
+Again this is probably an exceptional case, relating to specific prophecy being fulfilled.
+
+What is interesting is that God promised that he will send Elijah (Mal 4:5).
+Elijah's life seems to be an illustration in this instance of the work of the Spirit that God will do.
+Maybe also a prophetic symbol of the precursor to Elisha, who will have a double portion of the Spirit.
+
+## General comment on Luke 1-3
+
+The people of Jesus are filled with the Spirit of Jesus.
+Events surrounding His birth and ministry are characterized by the operation of the Spirit.
+
+## Luke 1:35 | The Holy Spirit will come upon you
+
+_And the angel answered her,_
+_“The Holy Spirit will come upon you, and the power of the Most High will overshadow you;_
+_therefore the child to be born will be called holy—the Son of God._
+
+The Holy Spirit brings forth the birth of the holy Son of God.
+Just so the Holy Spirit is needed in our lives to bring forth Christ.
