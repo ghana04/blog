@@ -65,7 +65,7 @@ What does it mean to be constant?
 Does it mean constantly praying (e.g. a lot) or being consistent in setting out time?
 Both?
 
-## Romans 15:30 | Strive with Paul in prayer for deliverance
+## Romans 15:30 | Strive with me
 
 _30 I appeal to you, brothers, by our Lord Jesus Christ and by the love of the Spirit, to strive together with me in your prayers to God on my behalf,_
 _31 that I may be delivered from the unbelievers in Judea, and that my service for Jerusalem may be acceptable to the saints,_

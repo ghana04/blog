@@ -21,6 +21,13 @@ Although there might be passages that contain both exhortation and instruction, 
 - Exhortation: _you should pray_
 - Instruction: This is _how you should pray_
 
+## Who
+
+The person doing the praying.
+
+The "who" for all exhortations are assumed to be believers, it's not stated because it can be confusing.
+E.g. are you saying "who" is doing the exhorting or "who" is being exhorted.
+
 ## To whom
 
 When Jesus is praying and the 'recipient' is not mentioned, it assumed to be the Father.

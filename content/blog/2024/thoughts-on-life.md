@@ -28,7 +28,7 @@ Since we were created in God's image, we should likewise have a life-giving impa
 This is reflected in the original command given to Adam, in which he is told (1) to multiply and fill the earth and (2) to keep and guard the garden.
 If Adam succeeds in these commands, life will flourish.
 
-Therefore, wherever we see life flourish under the hands of people, we see God's character being honored to some extent.
+Therefore, wherever we see life flourish under the hands of people, we see God's image being honored to some extent.
 In a way you could say that more alignment to God's character leads to more life.
 
 This principle of conformity to God bringing forth life is expressed in Deuteronomy 30:
@@ -46,7 +46,7 @@ Modern examples of this are abortion and homosexuality: the first destroys life 
 They represent rejections of the Genesis commands to "keep and guard (preserve) life" and "to be fruitful and multiply and fill the earth".
 
 When these commands are rejected, those who reject them inevitably become more conformed to Satan's image, who is the one that "steals, kills, and destroys" (John 10:10).
-However, by God's grace, many societies that reject Him have still discovered some life-giving principles, such as respecting the elderly and managing their farms in a sustainable manner.
+However, by God's grace, many people and societies that reject Him have still discovered some life-giving principles, such as respecting the elderly and managing their farms in a sustainable manner.
 These external conformities have brought about some measure of blessing to them, but they remain dead in God's sight.
 
 ## True life is a Person
@@ -54,7 +54,7 @@ These external conformities have brought about some measure of blessing to them,
 It is therefore possible that someone can have a thriving garden, happy family, and still be dead in God's sight.
 Jesus referred to the Pharisees as those who appeared beautiful outwardly, but inside were full of death (Mat 23:27).
 The reason for the beautiful outward appearance was a high level of conformity to the Law of God.
-This can likewise happen to cultures or societies.
+This can also happen to cultures or societies.
 
 At the same time, Jesus declared Himself to be the life.
 The true measure of life is therefore not measured externally, but whether or not a person is grafted in to Christ:
@@ -72,4 +72,4 @@ The absence of flourishing life should give cause for concern.
 On the other hand, it would be naive to assume that the people of a life-giving culture really know the true and living God.
 God is not necessarily with them, or even among them, but they could simply be experiencing God's common grace toward them.
 
-The statement of my friend is a tool (and a very helpful one), but the true measure of life will always remain a person's connection to the Author of Life.
+So I'll still measure the cultures I see with the question "how well do they create and sustain life", knowing that it does have limitations.
